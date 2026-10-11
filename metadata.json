@@ -1,0 +1,6 @@
+{
+  "name": "DayLedger",
+  "description": "Executive 24-hour day planner with locked diary reviews and interactive monthly metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
